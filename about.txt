@@ -1,2 +1,5 @@
 this is initial version of website explainerx.
 created by "" chandan ""
+
+hi admin;
+the second version of this website is developed by "chandan"
